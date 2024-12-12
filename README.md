@@ -1,5 +1,5 @@
 # VS-Code
-My VS Code Settings
+My VSCode Settings
 
 ![Скриншот](https://github.com/Nikita55612/VS-Code/blob/main/view/Screenshot_1.png)  
 
