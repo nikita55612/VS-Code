@@ -64,6 +64,7 @@
     "javascript.autoClosingTags": true,
     // Задержка отображение подсказок
     "editor.quickSuggestionsDelay": 0,
+    // Разные цвета скобок
     "editor.bracketPairColorization.enabled": false,
     // Удаление пробелов в конце строк
     "files.trimTrailingWhitespace": true,
