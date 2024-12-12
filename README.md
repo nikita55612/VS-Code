@@ -11,7 +11,9 @@
 6. rust-analyzer
 7. SQLite
 8. Python
-9. Rainbow CSV
+9. Rainbow CSV  
+
+## View
 
 ![Скриншот](https://github.com/Nikita55612/VS-Code/blob/main/view/Screenshot_1.png)  
 
