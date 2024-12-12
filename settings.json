@@ -32,8 +32,6 @@
     "editor.lineHeight": 22,
     "editor.fontWeight": 500,
     "editor.fontLigatures": true,
-    "editor.letterSpacing": 0.02,
-    "workbench.fontAliasing": "antialiased",
 
     // Терминал
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
