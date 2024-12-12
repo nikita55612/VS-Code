@@ -19,13 +19,13 @@
     "editor.insertSpaces": false,
 
     // Уменьшение ширины полосы прокрутки
-    "editor.scrollbar.verticalScrollbarSize": 9,
-    "editor.scrollbar.horizontalScrollbarSize": 9,
+    "editor.scrollbar.verticalScrollbarSize": 10,
+    "editor.scrollbar.horizontalScrollbarSize": 10,
 
     // Перенос слов
     "editor.wordWrap": "bounded",
     "editor.wrappingIndent": "same",
-    "editor.wordWrapColumn": 80,
+    "editor.wordWrapColumn": 86,
 
     // Настройка шрифта
     "editor.fontSize": 16,
@@ -114,4 +114,5 @@
     "breadcrumbs.showFields": false,
     "breadcrumbs.showEnumMembers": false,
     "breadcrumbs.showEvents": false,
+    // aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }
