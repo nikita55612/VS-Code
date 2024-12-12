@@ -1,7 +1,7 @@
 {
     "cSpell.language": "en,ru",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "terminal",
+    "workbench.startupEditor": "welcomePage",
     "workbench.editorAssociations": {
         "*.db": "default"
     },
