@@ -7,11 +7,10 @@
 2. Styx (Theme)
 3. Dracula Theme Official
 4. Material icon Theme
-5. Night Owl (Theme)
-6. rust-analyzer
-7. SQLite
-8. Python
-9. Rainbow CSV  
+5. rust-analyzer
+6. SQLite
+7. Python
+8. Rainbow CSV  
 
 ## View
 
