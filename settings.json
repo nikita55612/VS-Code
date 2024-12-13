@@ -1,15 +1,12 @@
 {
-    "cSpell.language": "en,ru",
-    "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "welcomePage",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Styx Dracula",
     "workbench.editorAssociations": {
         "*.db": "default"
     },
 
-    "workbench.colorTheme": "Styx Dracula",
-
     "window.zoomLevel": 0,
-    "editor.mouseWheelZoom": true,
     "workbench.list.smoothScrolling": true,
     "editor.smoothScrolling": true,
     "editor.tabSize": 4,
@@ -17,6 +14,9 @@
     "editor.detectIndentation": true,
     "editor.suggestSelection": "first",
     "editor.insertSpaces": false,
+    
+    // Изменение масштаба колесиком мыши
+     "editor.mouseWheelZoom": true,
 
     // Уменьшение ширины полосы прокрутки
     "editor.scrollbar.verticalScrollbarSize": 10,
