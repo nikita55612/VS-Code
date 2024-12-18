@@ -1,116 +1,117 @@
 {
-    "workbench.startupEditor": "welcomePage",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Styx Dracula",
-    "workbench.editorAssociations": {
-        "*.db": "default"
-    },
+  "workbench.startupEditor": "welcomePage",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Styx Dracula",
+  "workbench.editorAssociations": {
+      "*.db": "default"
+  },
 
-    "window.zoomLevel": 0,
-    "workbench.list.smoothScrolling": true,
-    "editor.smoothScrolling": true,
-    "editor.tabSize": 4,
-    "editor.folding": false,
-    "editor.detectIndentation": true,
-    "editor.suggestSelection": "first",
-    "editor.insertSpaces": false,
-    
-    // Изменение масштаба колесиком мыши
-     "editor.mouseWheelZoom": true,
+  "window.zoomLevel": 0,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 4,
+  "editor.folding": false,
+  "editor.detectIndentation": true,
+  "editor.suggestSelection": "first",
+  "editor.insertSpaces": false,
 
-    // Уменьшение ширины полосы прокрутки
-    "editor.scrollbar.verticalScrollbarSize": 10,
-    "editor.scrollbar.horizontalScrollbarSize": 10,
+  // Изменение масштаба колесиком мыши
+   "editor.mouseWheelZoom": true,
 
-    // Перенос слов
-    "editor.wordWrap": "on",
-    "editor.wrappingIndent": "same",
-    //"editor.wordWrapColumn": 86,
+  // Уменьшение ширины полосы прокрутки
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.scrollbar.horizontalScrollbarSize": 10,
 
-    // Настройка шрифта
-    "editor.fontSize": 16,
-    "editor.lineHeight": 22,
-    "editor.fontWeight": 500,
-    "editor.fontLigatures": true,
+  // Перенос слов
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "same",
+  //"editor.wordWrapColumn": 86,
 
-    // Терминал
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.smoothScrolling": true,
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorWidth": 2,
-    "terminal.integrated.cursorStyleInactive": "none",
+  // Настройка шрифта
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
+  "editor.fontWeight": 500,
+  "editor.fontLigatures": true,
 
-    // Показывать поле ввода команд Ctr + p
-    "window.commandCenter": false,
-    // Отступ номера строки
-    "editor.glyphMargin": false,
-    // Размер вкладки
-    "window.density.editorTabHeight": "compact",
-    // Дополнительное меню опций
-    "workbench.activityBar.location": "hidden",
-    // Кнопки расположения рабочих облостей
-    "workbench.layoutControl.enabled": false,
-    // Отступы файлов в папке
-    "workbench.tree.indent": 6,
-    // Прокрутка за пределы последней строки
-    "editor.scrollBeyondLastLine": true,
-    // Связное редактирование тегов
-    "editor.linkedEditing": false,
-    "html.autoClosingTags": true,
-    "javascript.autoClosingTags": true,
-    // Задержка отображение подсказок
-    "editor.quickSuggestionsDelay": 0,
-    // Разные цвета скобок
-    "editor.bracketPairColorization.enabled": false,
-    // Удаление пробелов в конце строк
-    "files.trimTrailingWhitespace": true,
-    // Добавление пустой строки в конец файла
-    "files.insertFinalNewline": true,
-    // Удаление лишних пустых строк в конце
-    "files.trimFinalNewlines": true,
-    // Уровень телеметрии
-    "telemetry.telemetryLevel": "off",
+  // Терминал
+  //"terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.cursorStyleInactive": "none",
+  "terminal.integrated.scrollback": 2000,
 
-    // Игнорирование рекомендаций расширений
-    "extensions.ignoreRecommendations": true,
+  // Показывать поле ввода команд Ctr + p
+  "window.commandCenter": false,
+  // Отступ номера строки
+  "editor.glyphMargin": false,
+  // Размер вкладки
+  "window.density.editorTabHeight": "compact",
+  // Дополнительное меню опций
+  "workbench.activityBar.location": "hidden",
+  // Кнопки расположения рабочих облостей
+  "workbench.layoutControl.enabled": false,
+  // Отступы файлов в папке
+  "workbench.tree.indent": 6,
+  // Прокрутка за пределы последней строки
+  "editor.scrollBeyondLastLine": true,
+  // Связное редактирование тегов
+  "editor.linkedEditing": false,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  // Задержка отображение подсказок
+  "editor.quickSuggestionsDelay": 0,
+  // Разные цвета скобок
+  "editor.bracketPairColorization.enabled": false,
+  // Удаление пробелов в конце строк
+  "files.trimTrailingWhitespace": true,
+  // Добавление пустой строки в конец файла
+  "files.insertFinalNewline": true,
+  // Удаление лишних пустых строк в конце
+  "files.trimFinalNewlines": true,
+  // Уровень телеметрии
+  "telemetry.telemetryLevel": "off",
 
-    // Кнопки управления вкладками
-    //"workbench.editor.editorActionsLocation": "hidden",
+  // Игнорирование рекомендаций расширений
+  "extensions.ignoreRecommendations": true,
 
-    //"editor.minimap.enabled": false,
+  // Кнопки управления вкладками
+  //"workbench.editor.editorActionsLocation": "hidden",
 
-    //Настройка курсорв
-    "editor.cursorBlinking": "blink",
-    "editor.cursorStyle": "line",
-    "editor.cursorSmoothCaretAnimation": "explicit",
+  //"editor.minimap.enabled": false,
 
-    // Спрашифвать при открытие недоверенных файлов
-    "security.workspace.trust.untrustedFiles": "open",
+  //Настройка курсорв
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "explicit",
 
-    // Настройки проводника
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.compactFolders": false,
-    "workbench.editor.tabSizing": "shrink",
+  // Спрашифвать при открытие недоверенных файлов
+  "security.workspace.trust.untrustedFiles": "open",
 
-    // Настройка отлидки
-    "debug.toolBarLocation": "hidden",
-    "debug.focusEditorOnBreak": false,
-    "debug.showInlineBreakpointCandidates": false,
-    "debug.showBreakpointsInOverviewRuler": false,
+  // Настройки проводника
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  "workbench.editor.tabSizing": "shrink",
 
-    // Breadcrumbs
-    "breadcrumbs.icons": false,
-    "breadcrumbs.showKeys": false,
-    "breadcrumbs.showBooleans": false,
-    "breadcrumbs.showClasses": false,
-    "breadcrumbs.showMethods": false,
-    "breadcrumbs.showEnums": false,
-    "breadcrumbs.showConstants": false,
-    "breadcrumbs.showConstructors": false,
-    "breadcrumbs.showFields": false,
-    "breadcrumbs.showEnumMembers": false,
-    "breadcrumbs.showEvents": false,
+  // Настройка отлидки
+  "debug.toolBarLocation": "hidden",
+  "debug.focusEditorOnBreak": false,
+  "debug.showInlineBreakpointCandidates": false,
+  "debug.showBreakpointsInOverviewRuler": false,
+
+  // Breadcrumbs
+  "breadcrumbs.icons": false,
+  "breadcrumbs.showKeys": false,
+  "breadcrumbs.showBooleans": false,
+  "breadcrumbs.showClasses": false,
+  "breadcrumbs.showMethods": false,
+  "breadcrumbs.showEnums": false,
+  "breadcrumbs.showConstants": false,
+  "breadcrumbs.showConstructors": false,
+  "breadcrumbs.showFields": false,
+  "breadcrumbs.showEnumMembers": false,
+  "breadcrumbs.showEvents": false,
+  "terminal.integrated.fontSize": 17,
 }
