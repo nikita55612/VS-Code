@@ -10,7 +10,8 @@
 5. rust-analyzer
 6. SQLite
 7. Python
-8. Rainbow CSV  
+8. Rainbow CSV
+...
 
 ## View
 
