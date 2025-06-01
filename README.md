@@ -3,17 +3,13 @@
 
 ## Extensions
 
-1. Live Server
-2. Styx (Theme)
-3. Dracula Theme Official
-4. Material icon Theme
-5. rust-analyzer
-6. SQLite
-7. Python
-8. Rainbow CSV  
-...
+![Extensions](https://github.com/Nikita55612/VS-Code/blob/main/view/Screenshot 2025-06-02 083219.png)   
 
 ## View
+
+Screenshot3.png
+
+![Скриншот](https://github.com/Nikita55612/VS-Code/blob/main/view/Screenshot3.png)  
 
 ![Скриншот](https://github.com/Nikita55612/VS-Code/blob/main/view/Screenshot_1.png)  
 
