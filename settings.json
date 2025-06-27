@@ -1,11 +1,11 @@
 {
-  "workbench.startupEditor": "welcomePage",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Styx Dracula",
-  "workbench.editorAssociations": {
-      "*.db": "default"
+  "[rust]": {
+    "editor.formatOnSave": true,
   },
-
+  "workbench.startupEditor": "welcomePage",
+  "workbench.editorAssociations": {
+    "*.db": "default"
+  },
   "window.zoomLevel": 0,
   "workbench.list.smoothScrolling": true,
   "editor.smoothScrolling": true,
@@ -14,25 +14,20 @@
   "editor.detectIndentation": true,
   "editor.suggestSelection": "first",
   "editor.insertSpaces": false,
-
   // Изменение масштаба колесиком мыши
-   "editor.mouseWheelZoom": true,
-
+  "editor.mouseWheelZoom": true,
   // Уменьшение ширины полосы прокрутки
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
-
   // Перенос слов
   "editor.wordWrap": "on",
   "editor.wrappingIndent": "same",
   //"editor.wordWrapColumn": 86,
-
   // Настройка шрифта
   "editor.fontSize": 16,
   "editor.lineHeight": 22,
   "editor.fontWeight": 500,
   "editor.fontLigatures": true,
-
   // Терминал
   //"terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.fontSize": 13,
@@ -42,7 +37,6 @@
   "terminal.integrated.cursorWidth": 2,
   "terminal.integrated.cursorStyleInactive": "none",
   "terminal.integrated.scrollback": 2000,
-
   // Показывать поле ввода команд Ctr + p
   "window.commandCenter": false,
   // Отступ номера строки
@@ -73,35 +67,27 @@
   "files.trimFinalNewlines": true,
   // Уровень телеметрии
   "telemetry.telemetryLevel": "off",
-
   // Игнорирование рекомендаций расширений
   "extensions.ignoreRecommendations": true,
-
   // Кнопки управления вкладками
   //"workbench.editor.editorActionsLocation": "hidden",
-
   //"editor.minimap.enabled": false,
-
   //Настройка курсорв
   "editor.cursorBlinking": "blink",
   "editor.cursorStyle": "line",
   "editor.cursorSmoothCaretAnimation": "explicit",
-
   // Спрашифвать при открытие недоверенных файлов
   "security.workspace.trust.untrustedFiles": "open",
-
   // Настройки проводника
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
   "workbench.editor.tabSizing": "shrink",
-
   // Настройка отлидки
   "debug.toolBarLocation": "hidden",
   "debug.focusEditorOnBreak": false,
   "debug.showInlineBreakpointCandidates": false,
   "debug.showBreakpointsInOverviewRuler": false,
-
   // Breadcrumbs
   "breadcrumbs.icons": false,
   "breadcrumbs.showKeys": false,
@@ -114,4 +100,6 @@
   "breadcrumbs.showFields": false,
   "breadcrumbs.showEnumMembers": false,
   "breadcrumbs.showEvents": false,
+  "go.toolsManagement.autoUpdate": true,
+  "workbench.colorTheme": "Tomorrow Night Blue",
 }
